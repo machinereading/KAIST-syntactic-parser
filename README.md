@@ -20,7 +20,7 @@ When using in file:
 
 ```
   BerkeleyParserWrapper bpw = new BerkeleyParserWrapper(Configuration.parserModel);   
-    result = bpw.parse("나는 한국을 사랑한다.");
+    result = bpw.parse("INPUT TEXT");
 ```
 
 ## Licenses
